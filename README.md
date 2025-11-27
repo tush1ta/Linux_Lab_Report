@@ -13,6 +13,8 @@
 ---
 
 Index: 
+
+
 [Experiment1](https://github.com/tush1ta/Linux_Lab_Report/blob/main/590029121_Exp%5B1%5DScriptlog.md)
 
 
