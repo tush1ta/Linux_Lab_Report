@@ -102,7 +102,7 @@ Store archives in ~/daily_logs/archive.
 Using crontab -e to schedule the script to run everyday at a fixed time.
 eg.
 ```
-0 20 * * * /home/tush1ta/mid/mid.sh
+0 20 * * * /mnt/c/Users/LENOVO/OneDrive/Documents/linux lab/New folder (2)
 ```
 <p align="center">
 <img align="center" src=".img/mid2.png" width="900">
