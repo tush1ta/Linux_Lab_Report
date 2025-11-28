@@ -48,5 +48,4 @@ Index:
 [Assignment1](https://github.com/tush1ta/Linux_Lab_Report/blob/main/Assignment-1.md)
 
 
-[Assignment2](https://github.com/tush1ta/Linux_Lab_Report/blob/main/Assignment-2.md)
 
